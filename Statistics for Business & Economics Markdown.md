@@ -1,12 +1,10 @@
 # 統計學 Statistics for Business & Economics
 
+參考書籍：《統計學》David R. Anderson等原作；陳可杰，黃聯海譯。
 
+本筆記由 國立台北科技大學 109資工 黃漢軒所撰寫，只用於教育用途，不做任何商業行為，若侵權請聯繫
 
-## 參考書籍
-
-《統計學》David R. Anderson等原作；陳可杰，黃聯海譯。
-
-本筆記只用於教育用途，不做任何商業行為，若侵權請聯繫 sigtuantw@gmail.com
+t109590031@ntut.org.tw 或 sigtunatw@gmail.com，非常感謝。
 
 
 
