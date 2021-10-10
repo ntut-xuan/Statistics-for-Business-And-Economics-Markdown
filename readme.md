@@ -31,6 +31,6 @@ mail: sigtunatw@gmail.com
 | :-------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: | :--: |
 |        1        | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | 100% |
 |        2        | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    |                    |                    |                    | 100% |
-|        3        | :white_check_mark: |                    |                    |                    |                    |                    |                    |                    |                    |  0%  |
+|        3        | :white_check_mark: | :white_check_mark: |                    |                    |                    |                    |                    |                    |                    |  0%  |
 |        4        |                    |                    |                    |                    |                    |                    |                    |                    |                    |  0%  |
 
