@@ -25,12 +25,10 @@ mail: sigtunatw@gmail.com
 
 ## 筆記進度
 
-距離期中進度施工：56%
-
 | Chapter/Section |         1          |         2          |         3          |         4          |         5          |         6          |         7          |         8          |         9          | 進度 |
 | :-------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: | :--: |
 |        1        | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | 100% |
 |        2        | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    |                    |                    |                    | 100% |
-|        3        | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    |                    |                    |                    | 50%  |
-|        4        |                    |                    |                    |                    |                    |                    |                    |                    |                    |  0%  |
+|        3        | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |         ⏩          |                    |                    |                    | 100% |
+|        4        | :white_check_mark: |                    |                    |                    |                    |                    |                    |                    |                    |  0%  |
 
